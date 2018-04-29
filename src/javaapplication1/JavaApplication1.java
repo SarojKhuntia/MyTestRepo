@@ -10,7 +10,6 @@ package javaapplication1;
  * @author SAROJ KHUNTIA
  */
 public class JavaApplication1 {
-
     /**
      * @param args the command line arguments
      */
@@ -18,5 +17,4 @@ public class JavaApplication1 {
         System.out.println("Hello github....");
         System.out.println("This is local change");
     }
-    
 }
